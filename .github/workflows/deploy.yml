@@ -48,7 +48,7 @@ jobs:
             echo "Fetching latest code..."
             git fetch origin main
             git checkout main
-            git pull --ff-only origin main
+            git reset --hard origin/main
 
             echo "Installing backend dependencies..."
             cd "$BACKEND_DIR"

@@ -48,7 +48,7 @@ jobs:
             echo "Fetching latest code..."
             git fetch origin preview
             git checkout preview
-            git pull --ff-only origin preview
+            git reset --hard origin/preview
 
             echo "Installing backend dependencies..."
             cd "$BACKEND_DIR"
