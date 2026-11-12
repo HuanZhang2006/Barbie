@@ -1,5 +1,7 @@
 # Barbie - Personal Finance Management Platform
 
+**🌐 Live: [uofa.ink](https://uofa.ink)** · Preview: [uofa.ink/preview](https://uofa.ink/preview/)
+
 **Language / 语言**: [English](#english) | [中文](#中文)
 
 ---
@@ -8,6 +10,8 @@
 ## 🇺🇸 English
 
 A full-stack personal finance management application with subscription tracking, expense management, budget planning, income recording, and multi-currency conversion.
+
+Live at [uofa.ink](https://uofa.ink) (self-hosted).
 
 ### ✨ Core Features
 
@@ -183,6 +187,8 @@ cd apps/frontend && npm run test:run
 ## 🇨🇳 中文
 
 一个功能完整的全栈个人财务管理应用，支持订阅管理、支出追踪、预算规划、收入记录和多币种转换。
+
+线上地址：[uofa.ink](https://uofa.ink)（自建服务器部署）
 
 ### ✨ 核心功能
 
